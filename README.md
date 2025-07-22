@@ -30,4 +30,8 @@ cd InsureMax
 ```
 2. **run npm install**
 3. **copy .env.example to .env file and add the data**
-4. **run npm run dev**
+4. **run**
+```bash
+npm run build
+npm run dev
+```
